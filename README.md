@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @theleury
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... abot akali linux
-- 💞️ I’m looking to collaborate on ... dont know yet
 - 📫 How to reach me ...
 
 <!---
